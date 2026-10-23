@@ -2,7 +2,7 @@ azure-core==1.30.2
 azure-identity==1.17.1
 azure-storage-blob==12.22.0
 blinker==1.8.2
-certifi==2024.8.30
+certifi==2026.10.19
 cffi==1.17.1
 charset-normalizer==3.3.2
 click==8.1.7
